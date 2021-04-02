@@ -23,7 +23,7 @@ public class Edge {
 	@Test
 	public void getTitle() {
 		String Title = driver.getTitle();
-		System.out.println("Title");
+		System.out.println(Title);
 
 	}
 

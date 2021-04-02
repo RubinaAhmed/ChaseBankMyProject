@@ -23,7 +23,7 @@ public class fireFox {
 	@Test
 	public void getTitle() {
 		String title = driver.getTitle();
-		System.out.println("title");
+		System.out.println(title);
 	}
 
 	@Test
